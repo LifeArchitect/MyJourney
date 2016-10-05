@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyJourney</string>
+    <string name="title_activity_my_journey">MyJourneyActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_expandable_my_journey">ExpandableMyJourneyActivity</string>
+</resources>
